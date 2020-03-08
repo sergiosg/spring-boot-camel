@@ -1,0 +1,1 @@
+https://github.com/winitonc/spring-boot-apache-camel-rest
